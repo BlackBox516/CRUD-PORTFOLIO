@@ -1,0 +1,6 @@
+.project
+.settings
+.classpath
+logs/
+.DS_Store
+.git
