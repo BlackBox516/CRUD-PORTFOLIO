@@ -29,19 +29,23 @@ Web開発の基本を身につけるためにCRUDの開発に着手しました�
  #操作画面画像
 
  ![Demo1](https://user-images.githubusercontent.com/80666532/146939012-00f56506-2a03-4fcf-84aa-d770c327ba31.jpg)
-           **トップページです**
+           トップページです
+
 
  <img width="1990" alt="Demo2" src="https://user-images.githubusercontent.com/80666532/146939223-08fcc800-ca66-4ac7-b285-3d5bba2d94bd.png">
-        　 **商品登録フォームにて商品を登録した直後の状態です**
+        　 商品登録フォームにて商品を登録した直後の状態です
+
 
  <img width="1990" alt="Demo3" src="https://user-images.githubusercontent.com/80666532/146939282-7509e24b-4109-4b67-b5fe-a33c6a3d515e.png">
-           **商品一覧画面で先程登録した内容がリストに反映された状態です**
+           商品一覧画面で先程登録した内容がリストに反映された状態です
+
 
  <img width="1990" alt="Demo4" src="https://user-images.githubusercontent.com/80666532/146939336-02b696ed-c8a7-4258-abf3-8ee856facf26.png">
-            **商品登録とはほぼ同じ画面ですが、CRUDのUに当たる更新部分です**
+            商品登録とはほぼ同じ画面ですが、CRUDのUに当たる更新部分です
+
 
  <img width="1990" alt="Demo5" src="https://user-images.githubusercontent.com/80666532/146939427-1378b6c6-9a05-4266-911e-05e771d093d9.png">
-　　　　　　　**商品登録にて各欄を空白にしたまま送信しようとすると、送信できないようになっています**
+　　　　　　　商品登録にて各欄を空白にしたまま送信しようとすると、送信できないようになっています
 
 
 # 苦労した点
