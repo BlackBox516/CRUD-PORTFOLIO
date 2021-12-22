@@ -32,7 +32,7 @@ Web開発の基本を身につけるためにCRUDの開発に着手しました�
            **トップページです**
 
  <img width="1990" alt="Demo2" src="https://user-images.githubusercontent.com/80666532/146939223-08fcc800-ca66-4ac7-b285-3d5bba2d94bd.png">
-          **商品登録フォームにて商品を登録した直後の状態です**
+        　**商品登録フォームにて商品を登録した直後の状態です**
 
  <img width="1990" alt="Demo3" src="https://user-images.githubusercontent.com/80666532/146939282-7509e24b-4109-4b67-b5fe-a33c6a3d515e.png">
           **商品一覧画面で先程登録した内容がリストに反映された状態です**
